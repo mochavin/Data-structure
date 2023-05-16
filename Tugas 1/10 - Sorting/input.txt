@@ -1,0 +1,8 @@
+
+"Rayyan Middle Last" 12
+"Ryo Tengah" 132.0
+"Upin" 213.1
+"Budi Kurniawan" 13.9
+"Moch. Avin" 1000.4
+"Upin" 135.4
+"Obama, Barrack" 429.23
